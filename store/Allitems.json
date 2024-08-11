@@ -1,0 +1,55 @@
+{
+      "Pizza":[
+            {
+                  "id":1,
+                  "image":"https://images.pexels.com/photos/25907488/pexels-photo-25907488/free-photo-of-hand-holding-a-piece-of-pizza.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+                  "name":"Chesse Pizza",
+                  "price": 2,
+                  "ingeridient": "Chesse, Pizza sauce",
+                  "size":"medium",
+                  "rating": 4,
+                  "description":"You will experience a bust of chessy flavours in our most rated pizza."
+            },
+            {
+                  "id":2,
+                  "image":"https://images.pexels.com/photos/14965994/pexels-photo-14965994/free-photo-of-pizzas-and-wine-glass-on-table.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+                  "name":"olive Pizza",
+                  "price": 3,
+                  "ingeridient": "olives, Pizza sauce",
+                  "size":"medium",
+                  "rating": 5,
+                  "description":"You will experience a bust of olive flavours in our most rated pizza."
+            },
+            {
+                  "id":3,
+                  "image":"https://images.pexels.com/photos/19602378/pexels-photo-19602378/free-photo-of-hands-holding-pizzas.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+                  "name":"basil Pizza",
+                  "price": 5,
+                  "ingeridient": "basil, Pizza sauce",
+                  "size":"medium",
+                  "rating": 4,
+                  "description":"You will experience a bust of basil flavours in our most rated pizza."
+            },
+            {
+                  "id":4,
+                  "image":"https://images.pexels.com/photos/8609973/pexels-photo-8609973.jpeg?auto=compress&cs=tinysrgb&w=600",
+                  "name":"veg loaded Pizza",
+                  "price": 6,
+                  "ingeridient": "vegetables, Pizza sauce",
+                  "size":"medium",
+                  "rating": 5,
+                  "description":"You will experience a bust of different flavours in our most rated pizza."
+            },
+            {
+                  "id":5,
+                  "image":"https://images.pexels.com/photos/5903450/pexels-photo-5903450.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+                  "name":"overloaded Pizza",
+                  "price": 4,
+                  "ingeridient": "chesse, vegetables, Pizza sauce",
+                  "size":"medium",
+                  "rating": 5,
+                  "description":"You will experience a bust of overloded flavours in our most rated pizza."
+            }
+
+      ]
+}
